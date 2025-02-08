@@ -1,0 +1,5 @@
+string=input("ENTER THE WORD")
+result1=string.upper()
+print(" ",result1)
+result2=string.lower()
+print(" ",result2)
