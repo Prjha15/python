@@ -10,8 +10,12 @@ Welcome to my personal GitHub repository. This space serves as a collection of s
 A collection of beginner-level programs focused on practicing and reinforcing fundamental programming concepts.
 
 ### ▸ `personal-diary/`
-A space for informal scripts, experiments, and one-off files — small pieces of work that reflect hands-on exploration and self-learning.
+A minimal command-line diary application written in Python. It allows you to:
+- Write daily entries and save them to a text file (`diary.txt`)
+- View past diary entries
+- Exit with a friendly message
 
+This script serves as a basic personal journaling tool and a hands-on project for practicing file
 ---
 
 ## 📌 Ongoing Development
